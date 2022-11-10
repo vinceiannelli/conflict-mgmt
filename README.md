@@ -1,2 +1,6 @@
-# conflict management
-delete later
+<<<<<<< HEAD
+
+# conflict mgmt for dummies
+
+> > > > > > > 3585f64 (updated title)
+> > > > > > > delete later
