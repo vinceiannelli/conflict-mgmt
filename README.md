@@ -1,3 +1,3 @@
-# conflict mgmt for dummies
+# conflict mgmt for reall??
 
 delete later
