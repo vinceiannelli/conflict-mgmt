@@ -1,2 +1,2 @@
-# conflict-mgmt
+# conflict management
 delete later
